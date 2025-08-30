@@ -1,5 +1,6 @@
 # phoskoto
-Controlador de motor PWM por luz o sombra, según usuario. El nombre viene de la conexión de los conceptos griegos φῶς (phôs, "luz") y σκότος (skótos, "oscuridad")
+
+Controlador de motor PWM por luz o sombra. El nombre viene de la conexión de los conceptos griegos φῶς (phôs, "luz") y σκότος (skótos, "oscuridad")
 
 ## Especificaciones
 
@@ -19,9 +20,7 @@ Controlador de motor PWM por luz o sombra, según usuario. El nombre viene de la
 
 ![imagen de esquemático](./archivos/phoskoto-sch.jpg)
 
-
 ## Modos de funcionamiento
-
 
 ### 1. Modo potenciómetro
 
